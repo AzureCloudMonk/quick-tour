@@ -43,7 +43,7 @@ mkdir $HOME/go
 export GOPATH=$HOME/go
 ```
 
-In depth details on `GOPATH can be found [https://code.google.com/p/go-wiki/wiki/GOPATH](here).
+In depth details on `GOPATH can be found on the [go-wiki GOPATH page](https://code.google.com/p/go-wiki/wiki/GOPATH).
 
 ## GOPATH on  Windows
 
